@@ -1,0 +1,33 @@
+body{
+    background-color: blanchedalmond;
+}
+
+#score{
+    font-size: 28px;
+    margin-left: -1520px ;
+    color: darkolivegreen;
+}
+
+p{
+    font-size: 25px;
+}
+
+#timer{
+    font-size: 28px;
+    float: right;
+    margin-right: 120px ;
+    color: darkslategrey;
+}
+
+#show_sketch{
+    float: right;
+    margin-right: 25px;
+}
+
+#draw_sketch{
+    color: crimson;
+}
+
+h1{
+    margin-left: 125px;
+}
